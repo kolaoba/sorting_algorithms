@@ -4,6 +4,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/**
+ * enum bool - enumeration of Boolean values
+ * @false: equals 0
+ * @true: equals 1
+ */
 typedef enum bool
 {
 	false = 0,
